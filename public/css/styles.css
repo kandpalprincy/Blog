@@ -1,0 +1,49 @@
+
+.container-fluid {
+    position: relative;
+}
+
+html{
+  min-height: 100%;
+  position: relative;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+  margin-top: 40px;
+	text-align: center;
+	width: 100%;
+  bottom:0;
+	background-color: #1abc9c;
+  position: absolute;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 20px;
+  color: #fff;
+}
+
+.compose{
+  font-weight: bold;
+}
+
+#display{
+  display: inline-block;
+}
